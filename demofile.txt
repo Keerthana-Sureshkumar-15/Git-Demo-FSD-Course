@@ -1,1 +1,2 @@
 GIT DEMO PURPOSE
+switched to new branch and commited changes
